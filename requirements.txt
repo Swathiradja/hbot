@@ -1,2 +1,2 @@
 streamlit
-openai==.028
+openai==0.28
